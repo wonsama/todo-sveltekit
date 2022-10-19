@@ -2,16 +2,13 @@
 
 Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).
 
-## Creating a project
+## 사전설치
 
-If you're seeing this, you've probably already done this step. Congrats!
+- nodejs 16.18.0 LTS 버전 설치 필요
 
 ```bash
-# create a new project in the current directory
-npm create svelte@latest
-
-# create a new project in my-app
-npm create svelte@latest my-app
+# 기본 의존성을 설치한다
+npm i
 ```
 
 ## Developing
